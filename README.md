@@ -1,2 +1,2 @@
 # HelloWorld
-example
+This is an example!
